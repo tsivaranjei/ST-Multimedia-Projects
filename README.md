@@ -1,7 +1,8 @@
-# ST-Multimedia-Projects
-The MP4 videos are created using multimedia technology and tools such as 3D-Max, After Effects, Adobe Premier, Sound Forge, Adobe Photoshop, etc.
+# ST Multimedia Projects
+The MP4 videos are created using multimedia tools and technologies such as Adobe Premiere, 3D-Max, After Effects, Sound Forge, and Adobe Photoshop.
 
-The published GitHub repository (https://github.com/tsivaranjei/ST-Multimedia-Projects) contains a collection of multimedia projects under the MIT License, Copyright (c) 2025 Sivaranjei Thambipillai.
+The published GitHub repository (https://github.com/tsivaranjei/ST-Multimedia-Projects) contains a collection of multimedia projects under the MIT License.
+~Last Updated: 2025 November 10
 
 # Author and Contributor
 Sivaranjei Thambipillai (MSc, BSc), University of Colombo, Sri Lanka.
