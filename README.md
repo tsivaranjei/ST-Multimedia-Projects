@@ -10,9 +10,9 @@ Sivaranjei Thambipillai (MSc, BSc), University of Colombo, Sri Lanka.
 ## License
 MIT License, Copyright (c) 2025 Sivaranjei Thambipillai.
 
-You can use this tutorial free of charge. See LICENSE.
+You can use this tutorial free of charge. See <a href="https://github.com/ST-Multimedia-Projects/blob/main/LICENSE" target="_blank">LICENSE</a>.
 
-# Feedback and Support
+## Feedback and Support
 We value your input! If you find any issues or have suggestions, please open an issue in this repository. Your feedback helps us improve!
 
 If you enjoyed this tutorial, don't forget to ⭐ star the repository and follow for updates.
