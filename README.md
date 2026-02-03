@@ -4,8 +4,15 @@ The MP4 videos are created using multimedia tools and technologies such as Adobe
 The published GitHub repository (https://github.com/tsivaranjei/ST-Multimedia-Projects) contains a collection of multimedia projects under the MIT License.<br>
 ~Last Updated: 2025 November 10
 
-
 [![3D Max Cannel]()](https://youtu.be/19jpYbBLibM)
+[![3D Max Rainy]()](https://youtu.be/AVuDHVfeOdE)
+[![3D Max Skeleton]()](https://youtu.be/3VQqVNxSoT8)
+[![3D Max with After Effects - House]()](https://youtu.be/wxGGP6S_5fQ)
+[![3D Max House]()](https://youtu.be/GooCWbl0PZk)
+[![3D Max Planetarium]()](https://youtu.be/d8Igy-Vn7tk)
+[![3D Max Planetarium Earth]()](https://youtu.be/IDnx1GHUjHA)
+[![AfterEffects_Creation]()]()
+[![Premiere_Remix Tamil Songs]()]()
 
 
 # Author and Contributor
