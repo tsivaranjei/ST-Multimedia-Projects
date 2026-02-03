@@ -5,7 +5,7 @@ The published GitHub repository (https://github.com/tsivaranjei/ST-Multimedia-Pr
 ~Last Updated: 2025 November 10
 
 
-[![3D Max Cannel](https://github.com/ST-Small-Software-Projects/V1.0_Original_Calculator/blob/main/automated_unit_tests.png)](https://youtu.be/19jpYbBLibM)
+[![3D Max Cannel]()](https://youtu.be/19jpYbBLibM)
 
 
 # Author and Contributor
