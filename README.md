@@ -1,5 +1,5 @@
 # ST Multimedia Projects
-The MP4 videos are created using multimedia tools and technologies such as Adobe Premiere, 3D-Max, After Effects, Sound Forge, and Adobe Photoshop.
+The MP4 videos are created using multimedia tools and technologies such as Adobe Premiere, 3D-Max, Flash, After Effects, Sound Forge, and Adobe Photoshop.
 
 The published GitHub repository (https://github.com/tsivaranjei/ST-Multimedia-Projects) contains a collection of multimedia projects under the MIT License.<br>
 ~Last Updated: 2025 November 10
