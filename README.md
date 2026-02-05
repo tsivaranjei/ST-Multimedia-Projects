@@ -18,9 +18,9 @@ The published GitHub repository (https://github.com/tsivaranjei/ST-Multimedia-Pr
 
 [![3D Max Planetarium Earth]()](https://youtu.be/IDnx1GHUjHA)
 
-[![AfterEffects_Creation]()]()
+[![AfterEffects_Creation]()](https://youtu.be/ysRSBOknTQk)
 
-[![Premiere_Remix Tamil Songs]()]()
+[![Premiere_Remix Tamil Songs]()](https://youtu.be/y0WGnlHJLsM)
 
 
 # Author and Contributor
